@@ -25,7 +25,7 @@ This project makes it possible! Using real-time video analysis, it detects your 
  
  *Keep a good lighting condition.
  
- *The system will display:
+ *The system will display.
  
  *The number of fingers detected.
  
